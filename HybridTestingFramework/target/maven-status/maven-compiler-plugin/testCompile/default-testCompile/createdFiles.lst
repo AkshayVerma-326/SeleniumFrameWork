@@ -1,0 +1,4 @@
+testcases\LoginTest.class
+unittests\ExcelTest.class
+unittests\BrowserTest.class
+unittests\ConfigTest.class
