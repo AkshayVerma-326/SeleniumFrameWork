@@ -17,7 +17,7 @@ public class BaseClass {
 		return driver;
 	}
 	
-	
+	//adding comment
 	//use with passing parameters in cmd
 	//example command: mvn test -DXMLFIle=testng.xml -DBrowser=chrome -DURL=http://opensource-demo.orangehrmlive.com/
 	@Parameters({"Browser","URL"})
